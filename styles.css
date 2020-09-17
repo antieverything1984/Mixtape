@@ -1,24 +1,39 @@
-body{background: linear-gradient(0deg, #000000, #3d3d3d);
- }
+body {
+  background: linear-gradient(0deg, #000000, #3d3d3d);
+}
 
- img{width: 75%;
-     height: 75%;
- }
+img {
+  width: 75%;
+  height: 75%;
+}
 
- h1, h2{font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
- Arial, sans-serif; font-variant: small-caps;
- font-weight: 100; line-height: 55px; color: gold;
- }
+p{
+  text-align: center;
+}
 
- ol{text-align: center;
- }
+a {
+  text-class: bold;
+  color: white;
+}
 
- li{font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
- Arial, sans-serif; font-size: 25px; font-variant: small-caps;
- font-weight: 100; line-height: 30px; color: gold; text-align: center;
- }
 
- .space{
-   padding-right: 10px;
-   padding-left: 10px;
- }
+h1, h2, h3{
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
+    Arial, sans-serif;
+  font-variant: small-caps;
+  font-weight: 100;
+  color: gold;
+
+}
+
+.song{
+  margin: 40px auto;
+  width:90%;
+  text-align:center;
+}
+
+ol {
+  text-align: center;
+  width:90%;
+  margin:auto;
+}
