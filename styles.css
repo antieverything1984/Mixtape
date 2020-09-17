@@ -7,7 +7,6 @@ img {
   height: 75%;
 }
 
-<<<<<<< HEAD
 p{
   text-align: center;
 }
@@ -37,33 +36,4 @@ ol {
   text-align: center;
   width:90%;
   margin:auto;
-=======
-h1, h2 {
-  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
-    Arial, sans-serif;
-  font-variant: small-caps;
-  font-weight: 100;
-  line-height: 55px;
-  color: gold;
-}
-
-ol {
-  text-align: center;
-}
-
-li {
-  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
-    Arial, sans-serif;
-  font-size: 25px;
-  font-variant: small-caps;
-  font-weight: 100;
-  line-height: 30px;
-  color: gold;
-  text-align: center;
-}
-
-.space {
-  padding-right: 10px;
-  padding-left: 10px;
->>>>>>> 54c3de873a34e048d8115f14249907d6d9a9f921
 }
