@@ -7,7 +7,6 @@ img {
   height: 75%;
 }
 
-<<<<<<< HEAD
 h1, h2, h3{
   font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
     Arial, sans-serif;
@@ -27,30 +26,16 @@ ol {
   text-align: center;
   width:90%;
   margin:auto;
-=======
-p{
-  text-align: center;
-}
-
-a {
-  text-class: bold;
-  color: white;
->>>>>>> 8c9486b24b336e2c659b8f3fc54d0f7ce65e765f
 }
 
 
 h1, h2, h3{
   font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic",
     Arial, sans-serif;
-<<<<<<< HEAD
   font-size: 1.2em;
   font-variant: small-caps;
   font-weight: 100;
   line-height: 1.2em;
-=======
-  font-variant: small-caps;
-  font-weight: 100;
->>>>>>> 8c9486b24b336e2c659b8f3fc54d0f7ce65e765f
   color: gold;
 
 }
